@@ -17,4 +17,6 @@ Supplies,1800,1500
 ```
 
 ## Запуск
+```sh
 python3 expense_analysis.py expenses.csv
+```

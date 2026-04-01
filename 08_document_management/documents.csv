@@ -1,0 +1,6 @@
+document_id,document_type,subject,sender,recipient,direction,status,date
+1,Letter,Contract,Company A,Company B,Incoming,Received,2026-04-01
+2,Invoice,Payment,Company B,Company A,Outgoing,Sent,2026-04-02
+3,Report,Monthly Report,Department 1,Director,Incoming,Received,2026-04-03
+4,Letter,Request,Company C,Company A,Incoming,Pending,2026-04-04
+5,Notice,Delivery Update,Company A,Company D,Outgoing,Sent,2026-04-05
